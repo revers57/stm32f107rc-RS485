@@ -10,6 +10,3 @@ int main(void){
 	}
 }
 
-
-
-
